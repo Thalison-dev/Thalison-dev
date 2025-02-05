@@ -13,14 +13,23 @@
         }
         .container {
             background: white;
-            padding: 20px;
+            padding: 30px;
             border-radius: 10px;
             box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
             display: inline-block;
         }
         img {
-            width: 20px;
+            width: 30px;
             margin-top: 10px;
+        }
+        h1, h2, p {
+            margin-bottom: 15px;
+        }
+        .logo-container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: nowrap;
         }
     </style>
 </head>
@@ -29,11 +38,10 @@
         <h1>Hello, World!</h1>
         <h2>My name is Thalison</h2>
         <p>This is the language I program in.</p>
-        <div style="display: flex; justify-content: center; gap: 2px; flex-wrap: nowrap;">
+        <div class="logo-container">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/30px-JavaScript-logo.png" alt="JavaScript Logo">
             <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Language Logo">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png" alt="Android Logo">
         </div>
     </div>
 </body>
