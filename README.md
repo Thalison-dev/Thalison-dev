@@ -19,16 +19,16 @@
             display: inline-block;
         }
         img {
-            width: 100px;
+            width: 80px;
             margin-top: 10px;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Hello World!</h1>
+        <h1>Hello, World!</h1>
         <h2>My name is Thalison</h2>
-        <p>Welcome to my portfolio!</p>
+        <p>This is the language I program in.</p>
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo">
     </div>
 </body>
