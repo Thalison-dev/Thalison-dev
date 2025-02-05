@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             text-align: center;
             background-color: #f4f4f4;
-            padding: 20px;
+            padding: 50px;
         }
         .container {
             background: white;
@@ -19,7 +19,7 @@
             display: inline-block;
         }
         img {
-            width: 50px;
+            width: 30px;
             margin-top: 10px;
         }
     </style>
@@ -29,7 +29,7 @@
         <h1>Hello, World!</h1>
         <h2>My name is Thalison</h2>
         <p>This is the language I program in.</p>
-        <div style="display: flex; justify-content: center; gap: 10px;">
+        <div style="display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo">
             <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Language Logo">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo">
