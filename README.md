@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             text-align: center;
             background-color: #f4f4f4;
-            padding: 50px;
+            padding: 2px;
         }
         .container {
             background: white;
@@ -33,7 +33,6 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo">
             <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Language Logo">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png" alt="Android Logo">
         </div>
     </div>
 </body>
