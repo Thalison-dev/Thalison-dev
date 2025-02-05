@@ -19,7 +19,7 @@
             display: inline-block;
         }
         img {
-            width: 20px;
+            width: 2px;
             margin-top: 10px;
         }
     </style>
