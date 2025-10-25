@@ -1,17 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thalison-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thalison-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="left" height="155" src="https://i.pinimg.com/736x/f5/0c/32/f50c32f129b2b8645a70d264cf544d81.jpg"  />
+<h2 align="left">Ola 👋! Meu nome é ... Thalison e é um prazer ter você aqui!!</h2>
 
 ###
 
@@ -33,6 +20,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="left" height="155" src="https://i.pinimg.com/736x/f5/0c/32/f50c32f129b2b8645a70d264cf544d81.jpg"  />
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/thalison_.10/?next=%2F" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -47,6 +40,15 @@
 
 ###
 
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thalison-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thalison-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thalison-dev/Thalison-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thalison-dev/Thalison-dev/output/pacman-contribution-graph.svg">
@@ -57,6 +59,12 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Thalison-dev.Thalison-dev&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
